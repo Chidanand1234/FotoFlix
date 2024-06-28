@@ -1,0 +1,2 @@
+# FotoFlix
+React Frontend Project
